@@ -13,7 +13,7 @@ ForgeEDA is an open-source, multifaceted dataset comprising 1,189 practical circ
 
 The detail you can find in the link: 
 ```
-zeju-0727/ForgeEDA_netlist
+https://huggingface.co/datasets/zeju-0727/ForgeEDA_netlist/tree/main
 ```
 
 # Citation
