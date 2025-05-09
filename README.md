@@ -11,10 +11,7 @@ https://zeju.gitbook.io/lcm-team/deepcircuitx/introduction-of-our-dataset
 
 ForgeEDA is an open-source, multifaceted dataset comprising 1,189 practical circuit designs across 6 categories: Processor, Arithmetic, Encoder/Decoder, Interface, Controller. ForgeEDA includes diverse circuit representations such as Register Transfer Level (RTL) code, Post- mapping (PM) netlists, And-Inverter Graphs (AIGs), and placed netlists, enabling comprehensive analysis and development.
 
-The detail you can find in the link: 
-```
-https://huggingface.co/datasets/zeju-0727/ForgeEDA_netlist/tree/main
-```
+PM netlists and reports are coming soon. 
 
 # Citation
 
